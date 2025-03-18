@@ -1,13 +1,12 @@
 bridge-utils
-bzip2
 console-common
 console-data
 cryptsetup
-dbus
 file
 ifenslave
 isc-dhcp-client
 less
+libpam-systemd
 locales
 lsb-release
 lsof
@@ -26,3 +25,4 @@ vim
 vlan
 w3m
 zsh
+zstd
